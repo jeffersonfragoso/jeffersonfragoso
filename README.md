@@ -27,7 +27,7 @@ class SoftwareEngineer:
 me = SoftwareEngineer(
     name="Jefferson Fragoso de Souza",
     role="Backend Software Engineer",
-    main_technologies=["python", "FastApi", "Django", "Docker", "K8s", "AWs"],
+    main_technologies=["python", "FastApi", "Django", "Docker", "K8s", "AWS"],
 )
 
 me.say_hi()
